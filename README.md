@@ -22,3 +22,5 @@ values["repo"] = "uritemplates"
 expanded, _ := template.Expand(values)
 fmt.Printf(expanded)
 ```
+
+Original implementation: https://github.com/jtacoma/uritemplates
